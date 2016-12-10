@@ -1,0 +1,20 @@
+aldea
+auzoa
+barriada|barda
+barrio|bo|brio|brrio
+barrios|bos|brios|brrios
+bloque|blque|bloq|blq
+colonia|col
+ciudad|cdad|cd
+distrito|dtto
+estado|edo
+isla|isl|is
+islas|isls|iss
+polígono|poligono|políg|polig|pol
+polígono residencial|poligono residencial|políg res|polig res|pol.res|pol res|pgres|pg res|pr|p.r.|p.r|p r
+polígono industrial|poligono industrial|políg ind|polig ind|pol.ind|pol ind|pgind|pg ind|pi|p.i.|p.i|p i
+punto kilométrico|punto kilometrico|pk|p.k.|p k
+sección|seccion|secc|sccn|scn|sec
+sector|sect
+urbanización|urbanizacion|urb
+zona|zna

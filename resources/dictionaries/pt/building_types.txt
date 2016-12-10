@@ -1,0 +1,4 @@
+bloco|bl
+edifício|edificio|edf|edif
+torre|tr
+vivenda|vv
